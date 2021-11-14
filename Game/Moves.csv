@@ -1,0 +1,756 @@
+move,type,category,pp,power,accuracy,priority,,,,,
+ABSORB,GRASS,SPECIAL,25,20,1,,,,Pound,Normal,Physical
+ACCELEROCK,ROCK,PHYSICAL,20,40,1,,,,Karate Chop,Fighting,Physical
+ACID,POISON,SPECIAL,30,40,1,,,,Double Slap,Normal,Physical
+ACID ARMOR,POISON,STATUS,20,,,,,,Comet Punch,Normal,Physical
+ACID SPRAY,POISON,SPECIAL,20,40,1,,,,Mega Punch,Normal,Physical
+ACROBATICS,FLYING,PHYSICAL,15,55,1,,,,Pay Day,Normal,Physical
+ACUPRESSURE,NORMAL,STATUS,30,,,,,,Fire Punch,Fire,Physical
+AERIAL ACE,FLYING,PHYSICAL,20,60,,,,,Ice Punch,Ice,Physical
+AEROBLAST,FLYING,SPECIAL,5,100,0.95,,,,Thunder Punch,Electric,Physical
+AFTER YOU,NORMAL,STATUS,15,,,,,,Scratch,Normal,Physical
+AGILITY,PSYCHIC,STATUS,30,,,,,,Vise Grip,Normal,Physical
+AIR CUTTER,FLYING,SPECIAL,25,60,0.95,,,,Guillotine,Normal,Physical
+AIR SLASH,FLYING,SPECIAL,15,75,0.95,,,,Razor Wind,Normal,Special
+ALLY SWITCH,PSYCHIC,STATUS,15,,,,,,Swords Dance,Normal,Status
+AMNESIA,PSYCHIC,STATUS,20,,,,,,Cut,Normal,Physical
+ANCHOR SHOT,STEEL,PHYSICAL,20,80,1,,,,Gust,Flying,Special
+ANCIENT POWER,ROCK,SPECIAL,5,60,1,,,,Wing Attack,Flying,Physical
+APPLE ACID,GRASS,SPECIAL,10,80,1,,,,Whirlwind,Normal,Status
+AQUA JET,WATER,PHYSICAL,20,40,1,,,,Fly,Flying,Physical
+AQUA RING,WATER,STATUS,20,,,,,,Bind,Normal,Physical
+AQUA TAIL,WATER,PHYSICAL,10,90,0.9,,,,Slam,Normal,Physical
+ARM THRUST,FIGHTING,PHYSICAL,20,15,1,,,,Vine Whip,Grass,Physical
+AROMATHERAPY,GRASS,STATUS,5,,,,,,Stomp,Normal,Physical
+AROMATIC MIST,FAIRY,STATUS,20,,,,,,Double Kick,Fighting,Physical
+ASSIST,NORMAL,STATUS,20,,,,,,Mega Kick,Normal,Physical
+ASSURANCE,DARK,PHYSICAL,10,60,1,,,,Jump Kick,Fighting,Physical
+ASTONISH,GHOST,PHYSICAL,15,30,1,,,,Rolling Kick,Fighting,Physical
+ASTRAL BARRAGE,GHOST,SPECIAL,5,120,1,,,,Sand Attack,Ground,Status
+ATTACK ORDER,BUG,PHYSICAL,15,90,1,,,,Headbutt,Normal,Physical
+ATTRACT,NORMAL,STATUS,15,,1,,,,Horn Attack,Normal,Physical
+AURA SPHERE,FIGHTING,SPECIAL,20,80,,,,,Fury Attack,Normal,Physical
+AURA WHEEL,ELECTRIC,PHYSICAL,10,110,1,,,,Horn Drill,Normal,Physical
+AURORA BEAM,ICE,SPECIAL,20,65,1,,,,Tackle,Normal,Physical
+AURORA VEIL,ICE,STATUS,20,,,,,,Body Slam,Normal,Physical
+AUTOTOMIZE,STEEL,STATUS,15,,,,,,Wrap,Normal,Physical
+AVALANCHE,ICE,PHYSICAL,10,60,1,,,,Take Down,Normal,Physical
+BABY-DOLL EYES,FAIRY,STATUS,30,,1,,,,Thrash,Normal,Physical
+BADDY BAD,DARK,SPECIAL,15,90,1,,,,Double-Edge,Normal,Physical
+BANEFUL BUNKER,POISON,STATUS,10,,,,,,Tail Whip,Normal,Status
+BARRAGE,NORMAL,PHYSICAL,20,15,0.85,,,,Poison Sting,Poison,Physical
+BARRIER,PSYCHIC,STATUS,20,,,,,,Twineedle,Bug,Physical
+BATON PASS,NORMAL,STATUS,40,,,,,,Pin Missile,Bug,Physical
+BEAK BLAST,FLYING,PHYSICAL,15,100,1,,,,Leer,Normal,Status
+BEAT UP,DARK,PHYSICAL,10,,1,,,,Bite,Dark,Physical
+BEHEMOTH BASH,STEEL,PHYSICAL,5,100,1,,,,Growl,Normal,Status
+BEHEMOTH BLADE,STEEL,PHYSICAL,5,100,1,,,,Roar,Normal,Status
+BELCH,POISON,SPECIAL,10,120,0.9,,,,Sing,Normal,Status
+BELLY DRUM,NORMAL,STATUS,10,,,,,,Supersonic,Normal,Status
+BESTOW,NORMAL,STATUS,15,,,,,,Sonic Boom,Normal,Special
+BIDE,NORMAL,PHYSICAL,10,,,,,,Disable,Normal,Status
+BIND,NORMAL,PHYSICAL,20,15,0.85,,,,Acid,Poison,Special
+BITE,DARK,PHYSICAL,25,60,1,,,,Ember,Fire,Special
+BLAST BURN,FIRE,SPECIAL,5,150,0.9,,,,Flamethrower,Fire,Special
+BLAZE KICK,FIRE,PHYSICAL,10,85,0.9,,,,Mist,Ice,Status
+BLIZZARD,ICE,SPECIAL,5,110,0.7,,,,Water Gun,Water,Special
+BLOCK,NORMAL,STATUS,5,,,,,,Hydro Pump,Water,Special
+BLUE FLARE,FIRE,SPECIAL,5,130,0.85,,,,Surf,Water,Special
+BODY PRESS,FIGHTING,PHYSICAL,10,80,1,,,,Ice Beam,Ice,Special
+BODY SLAM,NORMAL,PHYSICAL,15,85,1,,,,Blizzard,Ice,Special
+BOLT BEAK,ELECTRIC,PHYSICAL,10,85,1,,,,Psybeam,Psychic,Special
+BOLT STRIKE,ELECTRIC,PHYSICAL,5,130,0.85,,,,Bubble Beam,Water,Special
+BONE CLUB,GROUND,PHYSICAL,20,65,0.85,,,,Aurora Beam,Ice,Special
+BONE RUSH,GROUND,PHYSICAL,10,25,0.9,,,,Hyper Beam,Normal,Special
+BONEMERANG,GROUND,PHYSICAL,10,50,0.9,,,,Peck,Flying,Physical
+BOOMBURST,NORMAL,SPECIAL,10,140,1,,,,Drill Peck,Flying,Physical
+BOUNCE,FLYING,PHYSICAL,5,85,0.85,,,,Submission,Fighting,Physical
+BOUNCY BUBBLE,WATER,SPECIAL,15,90,1,,,,Low Kick,Fighting,Physical
+BRANCH POKE,GRASS,PHYSICAL,40,40,1,,,,Counter,Fighting,Physical
+BRAVE BIRD,FLYING,PHYSICAL,15,120,1,,,,Seismic Toss,Fighting,Physical
+BREAKING SWIPE,DRAGON,PHYSICAL,15,60,1,,,,Strength,Normal,Physical
+BRICK BREAK,FIGHTING,PHYSICAL,15,75,1,,,,Absorb,Grass,Special
+BRINE,WATER,SPECIAL,10,65,1,,,,Mega Drain,Grass,Special
+BRUTAL SWING,DARK,PHYSICAL,20,60,1,,,,Leech Seed,Grass,Status
+BUBBLE,WATER,SPECIAL,30,40,1,,,,Growth,Normal,Status
+BUBBLE BEAM,WATER,SPECIAL,20,65,1,,,,Razor Leaf,Grass,Physical
+BUG BITE,BUG,PHYSICAL,20,60,1,,,,Solar Beam,Grass,Special
+BUG BUZZ,BUG,SPECIAL,10,90,1,,,,Poison Powder,Poison,Status
+BULK UP,FIGHTING,STATUS,20,,,,,,Stun Spore,Grass,Status
+BULLDOZE,GROUND,PHYSICAL,20,60,1,,,,Sleep Powder,Grass,Status
+BULLET PUNCH,STEEL,PHYSICAL,30,40,1,,,,Petal Dance,Grass,Special
+BULLET SEED,GRASS,PHYSICAL,30,25,1,,,,String Shot,Bug,Status
+BURN UP,FIRE,SPECIAL,5,130,1,,,,Dragon Rage,Dragon,Special
+BURNING JEALOUSY,FIRE,SPECIAL,5,70,1,,,,Fire Spin,Fire,Special
+BUZZY BUZZ,ELECTRIC,SPECIAL,15,90,1,,,,Thunder Shock,Electric,Special
+CALM MIND,PSYCHIC,STATUS,20,,,,,,Thunderbolt,Electric,Special
+CAMOUFLAGE,NORMAL,STATUS,20,,,,,,Thunder Wave,Electric,Status
+CAPTIVATE,NORMAL,STATUS,20,,1,,,,Thunder,Electric,Special
+CELEBRATE,NORMAL,STATUS,40,,,,,,Rock Throw,Rock,Physical
+CHARGE,ELECTRIC,STATUS,20,,,,,,Earthquake,Ground,Physical
+CHARGE BEAM,ELECTRIC,SPECIAL,10,50,0.9,,,,Fissure,Ground,Physical
+CHARM,FAIRY,STATUS,20,,1,,,,Dig,Ground,Physical
+CHATTER,FLYING,SPECIAL,20,65,1,,,,Toxic,Poison,Status
+CHIP AWAY,NORMAL,PHYSICAL,20,70,1,,,,Confusion,Psychic,Special
+CIRCLE THROW,FIGHTING,PHYSICAL,10,60,0.9,,,,Psychic,Psychic,Special
+CLAMP,WATER,PHYSICAL,15,35,0.85,,,,Hypnosis,Psychic,Status
+CLANGING SCALES,DRAGON,SPECIAL,5,110,1,,,,Meditate,Psychic,Status
+CLANGOROUS SOUL,DRAGON,STATUS,5,,1,,,,Agility,Psychic,Status
+CLEAR SMOG,POISON,SPECIAL,15,50,,,,,Quick Attack,Normal,Physical
+CLOSE COMBAT,FIGHTING,PHYSICAL,5,120,1,,,,Rage,Normal,Physical
+COACHING,FIGHTING,STATUS,10,,,,,,Teleport,Psychic,Status
+COIL,POISON,STATUS,20,,,,,,Night Shade,Ghost,Special
+COMET PUNCH,NORMAL,PHYSICAL,15,18,0.85,,,,Mimic,Normal,Status
+CONFIDE,NORMAL,STATUS,20,,,,,,Screech,Normal,Status
+CONFUSE RAY,GHOST,STATUS,10,,1,,,,Double Team,Normal,Status
+CONFUSION,PSYCHIC,SPECIAL,25,50,1,,,,Recover,Normal,Status
+CONSTRICT,NORMAL,PHYSICAL,35,10,1,,,,Harden,Normal,Status
+CONVERSION,NORMAL,STATUS,30,,,,,,Minimize,Normal,Status
+CONVERSION 2,NORMAL,STATUS,30,,,,,,Smokescreen,Normal,Status
+COPYCAT,NORMAL,STATUS,20,,,,,,Confuse Ray,Ghost,Status
+CORE ENFORCER,DRAGON,SPECIAL,10,100,1,,,,Withdraw,Water,Status
+CORROSIVE GAS,POISON,STATUS,40,,1,,,,Defense Curl,Normal,Status
+COSMIC POWER,PSYCHIC,STATUS,20,,,,,,Barrier,Psychic,Status
+COTTON GUARD,GRASS,STATUS,10,,,,,,Light Screen,Psychic,Status
+COTTON SPORE,GRASS,STATUS,40,,1,,,,Haze,Ice,Status
+COUNTER,FIGHTING,PHYSICAL,20,,1,,,,Reflect,Psychic,Status
+COURT CHANGE,NORMAL,STATUS,10,,1,,,,Focus Energy,Normal,Status
+COVET,NORMAL,PHYSICAL,25,60,1,,,,Bide,Normal,Physical
+CRABHAMMER,WATER,PHYSICAL,10,100,0.9,,,,Metronome,Normal,Status
+CRAFTY SHIELD,FAIRY,STATUS,10,,,,,,Mirror Move,Flying,Status
+CROSS CHOP,FIGHTING,PHYSICAL,5,100,0.8,,,,Self-Destruct,Normal,Physical
+CROSS POISON,POISON,PHYSICAL,20,70,1,,,,Egg Bomb,Normal,Physical
+CRUNCH,DARK,PHYSICAL,15,80,1,,,,Lick,Ghost,Physical
+CRUSH CLAW,NORMAL,PHYSICAL,10,75,0.95,,,,Smog,Poison,Special
+CRUSH GRIP,NORMAL,PHYSICAL,5,,1,,,,Sludge,Poison,Special
+CURSE,GHOST,STATUS,10,,,,,,Bone Club,Ground,Physical
+CUT,NORMAL,PHYSICAL,30,50,0.95,,,,Fire Blast,Fire,Special
+DARK PULSE,DARK,SPECIAL,15,80,1,,,,Waterfall,Water,Physical
+DARK VOID,DARK,STATUS,10,,0.5,,,,Clamp,Water,Physical
+DARKEST LARIAT,DARK,PHYSICAL,10,85,1,,,,Swift,Normal,Special
+DAZZLING GLEAM,FAIRY,SPECIAL,10,80,1,,,,Skull Bash,Normal,Physical
+DECORATE,FAIRY,STATUS,15,,,,,,Spike Cannon,Normal,Physical
+DEFEND ORDER,BUG,STATUS,10,,,,,,Constrict,Normal,Physical
+DEFENSE CURL,NORMAL,STATUS,40,,,,,,Amnesia,Psychic,Status
+DEFOG,FLYING,STATUS,15,,,,,,Kinesis,Psychic,Status
+DESTINY BOND,GHOST,STATUS,5,,,,,,Soft-Boiled,Normal,Status
+DETECT,FIGHTING,STATUS,5,,,,,,High Jump Kick,Fighting,Physical
+DIAMOND STORM,ROCK,PHYSICAL,5,100,0.95,,,,Glare,Normal,Status
+DIG,GROUND,PHYSICAL,10,80,1,,,,Dream Eater,Psychic,Special
+DISABLE,NORMAL,STATUS,20,,1,,,,Poison Gas,Poison,Status
+DISARMING VOICE,FAIRY,SPECIAL,15,40,,,,,Barrage,Normal,Physical
+DISCHARGE,ELECTRIC,SPECIAL,15,80,1,,,,Leech Life,Bug,Physical
+DIVE,WATER,PHYSICAL,10,80,1,,,,Lovely Kiss,Normal,Status
+DIZZY PUNCH,NORMAL,PHYSICAL,10,70,1,,,,Sky Attack,Flying,Physical
+DOOM DESIRE,STEEL,SPECIAL,5,140,1,,,,Transform,Normal,Status
+DOUBLE HIT,NORMAL,PHYSICAL,10,35,0.9,,,,Bubble,Water,Special
+DOUBLE IRON BASH,STEEL,PHYSICAL,5,60,1,,,,Dizzy Punch,Normal,Physical
+DOUBLE KICK,FIGHTING,PHYSICAL,30,30,1,,,,Spore,Grass,Status
+DOUBLE SLAP,NORMAL,PHYSICAL,10,15,0.85,,,,Flash,Normal,Status
+DOUBLE TEAM,NORMAL,STATUS,15,,,,,,Psywave,Psychic,Special
+DOUBLE-EDGE,NORMAL,PHYSICAL,15,120,1,,,,Splash,Normal,Status
+DRACO METEOR,DRAGON,SPECIAL,5,130,0.9,,,,Acid Armor,Poison,Status
+DRAGON ASCENT,FLYING,PHYSICAL,5,120,1,,,,Crabhammer,Water,Physical
+DRAGON BREATH,DRAGON,SPECIAL,20,60,1,,,,Explosion,Normal,Physical
+DRAGON CLAW,DRAGON,PHYSICAL,15,80,1,,,,Fury Swipes,Normal,Physical
+DRAGON DANCE,DRAGON,STATUS,20,,,,,,Bonemerang,Ground,Physical
+DRAGON DARTS,DRAGON,PHYSICAL,10,50,1,,,,Rest,Psychic,Status
+DRAGON ENERGY,DRAGON,SPECIAL,5,150,1,,,,Rock Slide,Rock,Physical
+DRAGON HAMMER,DRAGON,PHYSICAL,15,90,1,,,,Hyper Fang,Normal,Physical
+DRAGON PULSE,DRAGON,SPECIAL,10,85,1,,,,Sharpen,Normal,Status
+DRAGON RAGE,DRAGON,SPECIAL,10,,1,,,,Conversion,Normal,Status
+DRAGON RUSH,DRAGON,PHYSICAL,10,100,0.75,,,,Tri Attack,Normal,Special
+DRAGON TAIL,DRAGON,PHYSICAL,10,60,0.9,,,,Super Fang,Normal,Physical
+DRAIN PUNCH,FIGHTING,PHYSICAL,10,75,1,,,,Slash,Normal,Physical
+DRAINING KISS,FAIRY,SPECIAL,10,50,1,,,,Substitute,Normal,Status
+DREAM EATER,PSYCHIC,SPECIAL,15,100,1,,,,Struggle,Normal,Physical
+DRILL PECK,FLYING,PHYSICAL,20,80,1,,,,Sketch,Normal,Status
+DRILL RUN,GROUND,PHYSICAL,10,80,0.95,,,,Triple Kick,Fighting,Physical
+DRUM BEATING,GRASS,PHYSICAL,10,80,1,,,,Thief,Dark,Physical
+DUAL CHOP,DRAGON,PHYSICAL,15,40,0.9,,,,Spider Web,Bug,Status
+DUAL WINGBEAT,FLYING,PHYSICAL,10,40,0.9,,,,Mind Reader,Normal,Status
+DYNAMAX CANNON,DRAGON,SPECIAL,5,100,1,,,,Nightmare,Ghost,Status
+DYNAMIC PUNCH,FIGHTING,PHYSICAL,5,100,0.5,,,,Flame Wheel,Fire,Physical
+EARTH POWER,GROUND,SPECIAL,10,90,1,,,,Snore,Normal,Special
+EARTHQUAKE,GROUND,PHYSICAL,10,100,1,,,,Curse,Ghost,Status
+ECHOED VOICE,NORMAL,SPECIAL,15,40,1,,,,Flail,Normal,Physical
+EERIE IMPULSE,ELECTRIC,STATUS,15,,1,,,,Conversion 2,Normal,Status
+EERIE SPELL,PSYCHIC,SPECIAL,5,80,1,,,,Aeroblast,Flying,Special
+EGG BOMB,NORMAL,PHYSICAL,10,100,0.75,,,,Cotton Spore,Grass,Status
+ELECTRIC TERRAIN,ELECTRIC,STATUS,10,,,,,,Reversal,Fighting,Physical
+ELECTRIFY,ELECTRIC,STATUS,20,,,,,,Spite,Ghost,Status
+ELECTRO BALL,ELECTRIC,SPECIAL,10,,1,,,,Powder Snow,Ice,Special
+ELECTROWEB,ELECTRIC,SPECIAL,15,55,0.95,,,,Protect,Normal,Status
+EMBARGO,DARK,STATUS,15,,1,,,,Mach Punch,Fighting,Physical
+EMBER,FIRE,SPECIAL,25,40,1,,,,Scary Face,Normal,Status
+ENCORE,NORMAL,STATUS,5,,1,,,,Feint Attack,Dark,Physical
+ENDEAVOR,NORMAL,PHYSICAL,5,,1,,,,Sweet Kiss,Fairy,Status
+ENDURE,NORMAL,STATUS,10,,,,,,Belly Drum,Normal,Status
+ENERGY BALL,GRASS,SPECIAL,10,90,1,,,,Sludge Bomb,Poison,Special
+ENTRAINMENT,NORMAL,STATUS,15,,1,,,,Mud-Slap,Ground,Special
+ERUPTION,FIRE,SPECIAL,5,150,1,,,,Octazooka,Water,Special
+ETERNABEAM,DRAGON,SPECIAL,5,160,0.9,,,,Spikes,Ground,Status
+EXPANDING FORCE,PSYCHIC,SPECIAL,10,80,1,,,,Zap Cannon,Electric,Special
+EXPLOSION,NORMAL,PHYSICAL,5,250,1,,,,Foresight,Normal,Status
+EXTRASENSORY,PSYCHIC,SPECIAL,20,80,1,,,,Destiny Bond,Ghost,Status
+EXTREME SPEED,NORMAL,PHYSICAL,5,80,1,,,,Perish Song,Normal,Status
+FACADE,NORMAL,PHYSICAL,20,70,1,,,,Icy Wind,Ice,Special
+FAIRY LOCK,FAIRY,STATUS,10,,,,,,Detect,Fighting,Status
+FAIRY WIND,FAIRY,SPECIAL,30,40,1,,,,Bone Rush,Ground,Physical
+FAKE OUT,NORMAL,PHYSICAL,10,40,1,,,,Lock-On,Normal,Status
+FAKE TEARS,DARK,STATUS,20,,1,,,,Outrage,Dragon,Physical
+FALSE SURRENDER,DARK,PHYSICAL,10,80,,,,,Sandstorm,Rock,Status
+FALSE SWIPE,NORMAL,PHYSICAL,40,40,1,,,,Giga Drain,Grass,Special
+FEATHER DANCE,FLYING,STATUS,15,,1,,,,Endure,Normal,Status
+FEINT,NORMAL,PHYSICAL,10,30,1,,,,Charm,Fairy,Status
+FEINT ATTACK,DARK,PHYSICAL,20,60,,,,,Rollout,Rock,Physical
+FELL STINGER,BUG,PHYSICAL,25,50,1,,,,False Swipe,Normal,Physical
+FIERY DANCE,FIRE,SPECIAL,10,80,1,,,,Swagger,Normal,Status
+FIERY WRATH,DARK,SPECIAL,10,90,1,,,,Milk Drink,Normal,Status
+FINAL GAMBIT,FIGHTING,SPECIAL,5,,1,,,,Spark,Electric,Physical
+FIRE BLAST,FIRE,SPECIAL,5,100,0.85,,,,Fury Cutter,Bug,Physical
+FIRE FANG,FIRE,PHYSICAL,15,65,0.95,,,,Steel Wing,Steel,Physical
+FIRE LASH,FIRE,PHYSICAL,15,80,1,,,,Mean Look,Normal,Status
+FIRE PLEDGE,FIRE,SPECIAL,10,80,1,,,,Attract,Normal,Status
+FIRE PUNCH,FIRE,PHYSICAL,15,75,1,,,,Sleep Talk,Normal,Status
+FIRE SPIN,FIRE,SPECIAL,15,35,0.85,,,,Heal Bell,Normal,Status
+FIRST IMPRESSION,BUG,PHYSICAL,10,90,1,,,,Return,Normal,Physical
+FISHIOUS REND,WATER,PHYSICAL,10,85,1,,,,Present,Normal,Physical
+FISSURE,GROUND,PHYSICAL,5,,0.3,,,,Frustration,Normal,Physical
+FLAIL,NORMAL,PHYSICAL,15,,1,,,,Safeguard,Normal,Status
+FLAME BURST,FIRE,SPECIAL,15,70,1,,,,Pain Split,Normal,Status
+FLAME CHARGE,FIRE,PHYSICAL,20,50,1,,,,Sacred Fire,Fire,Physical
+FLAME WHEEL,FIRE,PHYSICAL,25,60,1,,,,Magnitude,Ground,Physical
+FLAMETHROWER,FIRE,SPECIAL,15,90,1,,,,Dynamic Punch,Fighting,Physical
+FLARE BLITZ,FIRE,PHYSICAL,15,120,1,,,,Megahorn,Bug,Physical
+FLASH,NORMAL,STATUS,20,,1,,,,Dragon Breath,Dragon,Special
+FLASH CANNON,STEEL,SPECIAL,10,80,1,,,,Baton Pass,Normal,Status
+FLATTER,DARK,STATUS,15,,1,,,,Encore,Normal,Status
+FLEUR CANNON,FAIRY,SPECIAL,5,130,0.9,,,,Pursuit,Dark,Physical
+FLING,DARK,PHYSICAL,10,,1,,,,Rapid Spin,Normal,Physical
+FLIP TURN,WATER,PHYSICAL,20,60,1,,,,Sweet Scent,Normal,Status
+FLOATY FALL,FLYING,PHYSICAL,15,90,0.95,,,,Iron Tail,Steel,Physical
+FLORAL HEALING,FAIRY,STATUS,10,,,,,,Metal Claw,Steel,Physical
+FLOWER SHIELD,FAIRY,STATUS,10,,,,,,Vital Throw,Fighting,Physical
+FLY,FLYING,PHYSICAL,15,90,0.95,,,,Morning Sun,Normal,Status
+FLYING PRESS,FIGHTING,PHYSICAL,10,100,0.95,,,,Synthesis,Grass,Status
+FOCUS BLAST,FIGHTING,SPECIAL,5,120,0.7,,,,Moonlight*,Fairy,Status
+FOCUS ENERGY,NORMAL,STATUS,30,,,,,,Hidden Power,Normal,Special
+FOCUS PUNCH,FIGHTING,PHYSICAL,20,150,1,,,,Cross Chop,Fighting,Physical
+FOLLOW ME,NORMAL,STATUS,20,,,,,,Twister,Dragon,Special
+FORCE PALM,FIGHTING,PHYSICAL,10,60,1,,,,Rain Dance,Water,Status
+FORESIGHT,NORMAL,STATUS,40,,,,,,Sunny Day,Fire,Status
+FOREST'S CURSE,GRASS,STATUS,20,,1,,,,Crunch,Dark,Physical
+FOUL PLAY,DARK,PHYSICAL,15,95,1,,,,Mirror Coat,Psychic,Special
+FREEZE SHOCK,ICE,PHYSICAL,5,140,0.9,,,,Psych Up,Normal,Status
+FREEZE-DRY,ICE,SPECIAL,20,70,1,,,,Extreme Speed,Normal,Physical
+FREEZING GLARE,PSYCHIC,SPECIAL,10,90,1,,,,Ancient Power,Rock,Special
+FREEZY FROST,ICE,SPECIAL,15,90,1,,,,Shadow Ball,Ghost,Special
+FRENZY PLANT,GRASS,SPECIAL,5,150,0.9,,,,Future Sight,Psychic,Special
+FROST BREATH,ICE,SPECIAL,10,60,0.9,,,,Rock Smash,Fighting,Physical
+FRUSTRATION,NORMAL,PHYSICAL,20,,1,,,,Whirlpool,Water,Special
+FURY ATTACK,NORMAL,PHYSICAL,20,15,0.85,,,,Beat Up,Dark,Physical
+FURY CUTTER,BUG,PHYSICAL,20,40,0.95,,,,Fake Out,Normal,Physical
+FURY SWIPES,NORMAL,PHYSICAL,15,18,0.8,,,,Uproar,Normal,Special
+FUSION BOLT,ELECTRIC,PHYSICAL,5,100,1,,,,Stockpile,Normal,Status
+FUSION FLARE,FIRE,SPECIAL,5,100,1,,,,Spit Up,Normal,Special
+FUTURE SIGHT,PSYCHIC,SPECIAL,10,120,1,,,,Swallow,Normal,Status
+GASTRO ACID,POISON,STATUS,10,,1,,,,Heat Wave,Fire,Special
+GEAR GRIND,STEEL,PHYSICAL,15,50,0.85,,,,Hail,Ice,Status
+GEAR UP,STEEL,STATUS,20,,,,,,Torment,Dark,Status
+GEOMANCY,FAIRY,STATUS,10,,,,,,Flatter,Dark,Status
+GIGA DRAIN,GRASS,SPECIAL,10,75,1,,,,Will-O-Wisp,Fire,Status
+GIGA IMPACT,NORMAL,PHYSICAL,5,150,0.9,,,,Memento,Dark,Status
+GLACIAL LANCE,ICE,PHYSICAL,5,130,1,,,,Facade,Normal,Physical
+GLACIATE,ICE,SPECIAL,10,65,0.95,,,,Focus Punch,Fighting,Physical
+GLARE,NORMAL,STATUS,30,,1,,,,Smelling Salts,Normal,Physical
+GLITZY GLOW,PSYCHIC,SPECIAL,15,90,1,,,,Follow Me,Normal,Status
+GRASS KNOT,GRASS,SPECIAL,20,,1,,,,Nature Power,Normal,Status
+GRASS PLEDGE,GRASS,SPECIAL,10,80,1,,,,Charge,Electric,Status
+GRASS WHISTLE,GRASS,STATUS,15,,0.55,,,,Taunt,Dark,Status
+GRASSY GLIDE,GRASS,PHYSICAL,20,70,1,,,,Helping Hand,Normal,Status
+GRASSY TERRAIN,GRASS,STATUS,10,,,,,,Trick,Psychic,Status
+GRAV APPLE,GRASS,PHYSICAL,10,80,1,,,,Role Play,Psychic,Status
+GRAVITY,PSYCHIC,STATUS,5,,,,,,Wish,Normal,Status
+GROWL,NORMAL,STATUS,40,,1,,,,Assist,Normal,Status
+GROWTH,NORMAL,STATUS,20,,,,,,Ingrain,Grass,Status
+GRUDGE,GHOST,STATUS,5,,,,,,Superpower,Fighting,Physical
+GUARD SPLIT,PSYCHIC,STATUS,10,,,,,,Magic Coat,Psychic,Status
+GUARD SWAP,PSYCHIC,STATUS,10,,,,,,Recycle,Normal,Status
+GUILLOTINE,NORMAL,PHYSICAL,5,,0.3,,,,Revenge,Fighting,Physical
+GUNK SHOT,POISON,PHYSICAL,5,120,0.8,,,,Brick Break,Fighting,Physical
+GUST,FLYING,SPECIAL,35,40,1,,,,Yawn,Normal,Status
+GYRO BALL,STEEL,PHYSICAL,5,,1,,,,Knock Off,Dark,Physical
+HAIL,ICE,STATUS,10,,,,,,Endeavor,Normal,Physical
+HAMMER ARM,FIGHTING,PHYSICAL,10,100,0.9,,,,Eruption,Fire,Special
+HAPPY HOUR,NORMAL,STATUS,30,,,,,,Skill Swap,Psychic,Status
+HARDEN,NORMAL,STATUS,30,,,,,,Imprison,Psychic,Status
+HAZE,ICE,STATUS,30,,,,,,Refresh,Normal,Status
+HEAD CHARGE,NORMAL,PHYSICAL,15,120,1,,,,Grudge,Ghost,Status
+HEAD SMASH,ROCK,PHYSICAL,5,150,0.8,,,,Snatch,Dark,Status
+HEADBUTT,NORMAL,PHYSICAL,15,70,1,,,,Secret Power,Normal,Physical
+HEAL BELL,NORMAL,STATUS,5,,,,,,Dive,Water,Physical
+HEAL BLOCK,PSYCHIC,STATUS,15,,1,,,,Arm Thrust,Fighting,Physical
+HEAL ORDER,BUG,STATUS,10,,,,,,Camouflage,Normal,Status
+HEAL PULSE,PSYCHIC,STATUS,10,,,,,,Tail Glow,Bug,Status
+HEALING WISH,PSYCHIC,STATUS,10,,,,,,Luster Purge,Psychic,Special
+HEART STAMP,PSYCHIC,PHYSICAL,25,60,1,,,,Mist Ball,Psychic,Special
+HEART SWAP,PSYCHIC,STATUS,10,,,,,,Feather Dance,Flying,Status
+HEAT CRASH,FIRE,PHYSICAL,10,,1,,,,Teeter Dance,Normal,Status
+HEAT WAVE,FIRE,SPECIAL,10,95,0.9,,,,Blaze Kick,Fire,Physical
+HEAVY SLAM,STEEL,PHYSICAL,10,,1,,,,Mud Sport,Ground,Status
+HELPING HAND,NORMAL,STATUS,20,,,,,,Ice Ball,Ice,Physical
+HIDDEN POWER,NORMAL,SPECIAL,15,60,1,,,,Needle Arm,Grass,Physical
+HIGH HORSEPOWER,GROUND,PHYSICAL,10,95,0.95,,,,Slack Off,Normal,Status
+HIGH JUMP KICK,FIGHTING,PHYSICAL,10,130,0.9,,,,Hyper Voice,Normal,Special
+HOLD BACK,NORMAL,PHYSICAL,40,40,1,,,,Poison Fang,Poison,Physical
+HOLD HANDS,NORMAL,STATUS,40,,,,,,Crush Claw,Normal,Physical
+HONE CLAWS,DARK,STATUS,15,,,,,,Blast Burn,Fire,Special
+HORN ATTACK,NORMAL,PHYSICAL,25,65,1,,,,Hydro Cannon,Water,Special
+HORN DRILL,NORMAL,PHYSICAL,5,,0.3,,,,Meteor Mash,Steel,Physical
+HORN LEECH,GRASS,PHYSICAL,10,75,1,,,,Astonish,Ghost,Physical
+HOWL,NORMAL,STATUS,40,,,,,,Weather Ball,Normal,Special
+HURRICANE,FLYING,SPECIAL,10,110,0.7,,,,Aromatherapy,Grass,Status
+HYDRO CANNON,WATER,SPECIAL,5,150,0.9,,,,Fake Tears,Dark,Status
+HYDRO PUMP,WATER,SPECIAL,5,110,0.8,,,,Air Cutter,Flying,Special
+HYPER BEAM,NORMAL,SPECIAL,5,150,0.9,,,,Overheat,Fire,Special
+HYPER FANG,NORMAL,PHYSICAL,15,80,0.9,,,,Odor Sleuth,Normal,Status
+HYPER VOICE,NORMAL,SPECIAL,10,90,1,,,,Rock Tomb,Rock,Physical
+HYPERSPACE FURY,DARK,PHYSICAL,5,100,,,,,Silver Wind,Bug,Special
+HYPERSPACE HOLE,PSYCHIC,SPECIAL,5,80,,,,,Metal Sound,Steel,Status
+HYPNOSIS,PSYCHIC,STATUS,20,,0.6,,,,Grass Whistle,Grass,Status
+ICE BALL,ICE,PHYSICAL,20,30,0.9,,,,Tickle,Normal,Status
+ICE BEAM,ICE,SPECIAL,10,90,1,,,,Cosmic Power,Psychic,Status
+ICE BURN,ICE,SPECIAL,5,140,0.9,,,,Water Spout,Water,Special
+ICE FANG,ICE,PHYSICAL,15,65,0.95,,,,Signal Beam,Bug,Special
+ICE HAMMER,ICE,PHYSICAL,10,100,0.9,,,,Shadow Punch,Ghost,Physical
+ICE PUNCH,ICE,PHYSICAL,15,75,1,,,,Extrasensory,Psychic,Special
+ICE SHARD,ICE,PHYSICAL,30,40,1,,,,Sky Uppercut,Fighting,Physical
+ICICLE CRASH,ICE,PHYSICAL,10,85,0.9,,,,Sand Tomb,Ground,Physical
+ICICLE SPEAR,ICE,PHYSICAL,30,25,1,,,,Sheer Cold,Ice,Special
+ICY WIND,ICE,SPECIAL,15,55,0.95,,,,Muddy Water,Water,Special
+IMPRISON,PSYCHIC,STATUS,10,,,,,,Bullet Seed,Grass,Physical
+INCINERATE,FIRE,SPECIAL,15,60,1,,,,Aerial Ace,Flying,Physical
+INFERNO,FIRE,SPECIAL,5,100,0.5,,,,Icicle Spear,Ice,Physical
+INFESTATION,BUG,SPECIAL,20,20,1,,,,Iron Defense,Steel,Status
+INGRAIN,GRASS,STATUS,20,,,,,,Block,Normal,Status
+INSTRUCT,PSYCHIC,STATUS,15,,,,,,Howl,Normal,Status
+ION DELUGE,ELECTRIC,STATUS,25,,,,,,Dragon Claw,Dragon,Physical
+IRON DEFENSE,STEEL,STATUS,15,,,,,,Frenzy Plant,Grass,Special
+IRON HEAD,STEEL,PHYSICAL,15,80,1,,,,Bulk Up,Fighting,Status
+IRON TAIL,STEEL,PHYSICAL,15,100,0.75,,,,Bounce,Flying,Physical
+JAW LOCK,DARK,PHYSICAL,10,80,1,,,,Mud Shot,Ground,Special
+JUDGMENT,NORMAL,SPECIAL,10,100,1,,,,Poison Tail,Poison,Physical
+JUMP KICK,FIGHTING,PHYSICAL,10,100,0.95,,,,Covet,Normal,Physical
+JUNGLE HEALING,GRASS,STATUS,10,,,,,,Volt Tackle,Electric,Physical
+KARATE CHOP,FIGHTING,PHYSICAL,25,50,1,,,,Magical Leaf,Grass,Special
+KINESIS,PSYCHIC,STATUS,15,,0.8,,,,Water Sport,Water,Status
+KING'S SHIELD,STEEL,STATUS,10,,,,,,Calm Mind,Psychic,Status
+KNOCK OFF,DARK,PHYSICAL,20,65,1,,,,Leaf Blade,Grass,Physical
+LAND'S WRATH,GROUND,PHYSICAL,10,90,1,,,,Dragon Dance,Dragon,Status
+LASER FOCUS,NORMAL,STATUS,30,,,,,,Rock Blast,Rock,Physical
+LASH OUT,DARK,PHYSICAL,5,75,1,,,,Shock Wave,Electric,Special
+LAST RESORT,NORMAL,PHYSICAL,5,140,1,,,,Water Pulse,Water,Special
+LAVA PLUME,FIRE,SPECIAL,15,80,1,,,,Doom Desire,Steel,Special
+LEAF BLADE,GRASS,PHYSICAL,15,90,1,,,,Psycho Boost,Psychic,Special
+LEAF STORM,GRASS,SPECIAL,5,130,0.9,,,,Roost,Flying,Status
+LEAF TORNADO,GRASS,SPECIAL,10,65,0.9,,,,Gravity,Psychic,Status
+LEAFAGE,GRASS,PHYSICAL,40,40,1,,,,Miracle Eye,Psychic,Status
+LEECH LIFE,BUG,PHYSICAL,10,80,1,,,,Wake-Up Slap,Fighting,Physical
+LEECH SEED,GRASS,STATUS,10,,0.9,,,,Hammer Arm,Fighting,Physical
+LEER,NORMAL,STATUS,30,,1,,,,Gyro Ball,Steel,Physical
+LICK,GHOST,PHYSICAL,30,30,1,,,,Healing Wish,Psychic,Status
+LIFE DEW,WATER,STATUS,10,,,,,,Brine,Water,Special
+LIGHT OF RUIN,FAIRY,SPECIAL,5,140,0.9,,,,Natural Gift,Normal,Physical
+LIGHT SCREEN,PSYCHIC,STATUS,30,,,,,,Feint,Normal,Physical
+LIQUIDATION,WATER,PHYSICAL,10,85,1,,,,Pluck,Flying,Physical
+LOCK-ON,NORMAL,STATUS,5,,,,,,Tailwind,Flying,Status
+LOVELY KISS,NORMAL,STATUS,10,,0.75,,,,Acupressure,Normal,Status
+LOW KICK,FIGHTING,PHYSICAL,20,,1,,,,Metal Burst,Steel,Physical
+LOW SWEEP,FIGHTING,PHYSICAL,20,65,1,,,,U-turn,Bug,Physical
+LUCKY CHANT,NORMAL,STATUS,30,,,,,,Close Combat,Fighting,Physical
+LUNAR DANCE,PSYCHIC,STATUS,10,,,,,,Payback,Dark,Physical
+LUNGE,BUG,PHYSICAL,15,80,1,,,,Assurance,Dark,Physical
+LUSTER PURGE,PSYCHIC,SPECIAL,5,70,1,,,,Embargo,Dark,Status
+MACH PUNCH,FIGHTING,PHYSICAL,30,40,1,,,,Fling,Dark,Physical
+MAGIC COAT,PSYCHIC,STATUS,15,,,,,,Psycho Shift,Psychic,Status
+MAGIC POWDER,PSYCHIC,STATUS,20,,1,,,,Trump Card,Normal,Special
+MAGIC ROOM,PSYCHIC,STATUS,10,,,,,,Heal Block,Psychic,Status
+MAGICAL LEAF,GRASS,SPECIAL,20,60,,,,,Wring Out,Normal,Special
+MAGMA STORM,FIRE,SPECIAL,5,100,0.75,,,,Power Trick,Psychic,Status
+MAGNET BOMB,STEEL,PHYSICAL,20,60,,,,,Gastro Acid,Poison,Status
+MAGNET RISE,ELECTRIC,STATUS,10,,,,,,Lucky Chant,Normal,Status
+MAGNETIC FLUX,ELECTRIC,STATUS,20,,,,,,Me First,Normal,Status
+MAGNITUDE,GROUND,PHYSICAL,30,,1,,,,Copycat,Normal,Status
+MAT BLOCK,FIGHTING,STATUS,10,,,,,,Power Swap,Psychic,Status
+MAX GUARD,NORMAL,STATUS,10,,,,,,Guard Swap,Psychic,Status
+ME FIRST,NORMAL,STATUS,20,,,,,,Punishment,Dark,Physical
+MEAN LOOK,NORMAL,STATUS,5,,,,,,Last Resort,Normal,Physical
+MEDITATE,PSYCHIC,STATUS,40,,,,,,Worry Seed,Grass,Status
+MEGA DRAIN,GRASS,SPECIAL,15,10,1,,,,Sucker Punch,Dark,Physical
+MEGA KICK,NORMAL,PHYSICAL,5,120,0.75,,,,Toxic Spikes,Poison,Status
+MEGA PUNCH,NORMAL,PHYSICAL,20,80,0.85,,,,Heart Swap,Psychic,Status
+MEGAHORN,BUG,PHYSICAL,10,120,0.85,,,,Aqua Ring,Water,Status
+MEMENTO,DARK,STATUS,10,,1,,,,Magnet Rise,Electric,Status
+METAL BURST,STEEL,PHYSICAL,10,,1,,,,Flare Blitz,Fire,Physical
+METAL CLAW,STEEL,PHYSICAL,35,50,0.95,,,,Force Palm,Fighting,Physical
+METAL SOUND,STEEL,STATUS,40,,0.85,,,,Aura Sphere,Fighting,Special
+METEOR ASSAULT,FIGHTING,PHYSICAL,5,150,1,,,,Rock Polish,Rock,Status
+METEOR BEAM,ROCK,SPECIAL,10,120,0.9,,,,Poison Jab,Poison,Physical
+METEOR MASH,STEEL,PHYSICAL,10,90,0.9,,,,Dark Pulse,Dark,Special
+METRONOME,NORMAL,STATUS,10,,,,,,Night Slash,Dark,Physical
+MILK DRINK,NORMAL,STATUS,10,,,,,,Aqua Tail,Water,Physical
+MIMIC,NORMAL,STATUS,10,,,,,,Seed Bomb,Grass,Physical
+MIND BLOWN,FIRE,SPECIAL,5,150,1,,,,Air Slash,Flying,Special
+MIND READER,NORMAL,STATUS,5,,,,,,X-Scissor,Bug,Physical
+MINIMIZE,NORMAL,STATUS,10,,,,,,Bug Buzz,Bug,Special
+MIRACLE EYE,PSYCHIC,STATUS,40,,,,,,Dragon Pulse,Dragon,Special
+MIRROR COAT,PSYCHIC,SPECIAL,20,,1,,,,Dragon Rush,Dragon,Physical
+MIRROR MOVE,FLYING,STATUS,20,,,,,,Power Gem,Rock,Special
+MIRROR SHOT,STEEL,SPECIAL,10,65,0.85,,,,Drain Punch,Fighting,Physical
+MIST,ICE,STATUS,30,,,,,,Vacuum Wave,Fighting,Special
+MIST BALL,PSYCHIC,SPECIAL,5,70,1,,,,Focus Blast,Fighting,Special
+MISTY EXPLOSION,FAIRY,SPECIAL,5,100,1,,,,Energy Ball,Grass,Special
+MISTY TERRAIN,FAIRY,STATUS,10,,,,,,Brave Bird,Flying,Physical
+MOONBLAST,FAIRY,SPECIAL,15,95,1,,,,Earth Power,Ground,Special
+MOONGEIST BEAM,GHOST,SPECIAL,5,100,1,,,,Switcheroo,Dark,Status
+MOONLIGHT*,FAIRY,STATUS,5,,,,,,Giga Impact,Normal,Physical
+MORNING SUN,NORMAL,STATUS,5,,,,,,Nasty Plot,Dark,Status
+MUD BOMB,GROUND,SPECIAL,10,65,0.85,,,,Bullet Punch,Steel,Physical
+MUD SHOT,GROUND,SPECIAL,15,55,0.95,,,,Avalanche,Ice,Physical
+MUD SPORT,GROUND,STATUS,15,,,,,,Ice Shard,Ice,Physical
+MUDDY WATER,WATER,SPECIAL,10,90,0.85,,,,Shadow Claw,Ghost,Physical
+MUD-SLAP,GROUND,SPECIAL,10,20,1,,,,Thunder Fang,Electric,Physical
+MULTI-ATTACK,NORMAL,PHYSICAL,10,120,1,,,,Ice Fang,Ice,Physical
+MYSTICAL FIRE,FIRE,SPECIAL,10,75,1,,,,Fire Fang,Fire,Physical
+NASTY PLOT,DARK,STATUS,20,,,,,,Shadow Sneak,Ghost,Physical
+NATURAL GIFT,NORMAL,PHYSICAL,15,,1,,,,Mud Bomb,Ground,Special
+NATURE POWER,NORMAL,STATUS,20,,,,,,Psycho Cut,Psychic,Physical
+NATURE'S MADNESS,FAIRY,SPECIAL,10,,0.9,,,,Zen Headbutt,Psychic,Physical
+NEEDLE ARM,GRASS,PHYSICAL,15,60,1,,,,Mirror Shot,Steel,Special
+NIGHT DAZE,DARK,SPECIAL,10,85,0.95,,,,Flash Cannon,Steel,Special
+NIGHT SHADE,GHOST,SPECIAL,15,,1,,,,Rock Climb,Normal,Physical
+NIGHT SLASH,DARK,PHYSICAL,15,70,1,,,,Defog,Flying,Status
+NIGHTMARE,GHOST,STATUS,15,,1,,,,Trick Room,Psychic,Status
+NO RETREAT,FIGHTING,STATUS,5,,,,,,Draco Meteor,Dragon,Special
+NOBLE ROAR,NORMAL,STATUS,30,,1,,,,Discharge,Electric,Special
+NUZZLE,ELECTRIC,PHYSICAL,20,20,1,,,,Lava Plume,Fire,Special
+OBLIVION WING,FLYING,SPECIAL,10,80,1,,,,Leaf Storm,Grass,Special
+OBSTRUCT,DARK,STATUS,10,,1,,,,Power Whip,Grass,Physical
+OCTAZOOKA,WATER,SPECIAL,10,65,0.85,,,,Rock Wrecker,Rock,Physical
+OCTOLOCK,FIGHTING,STATUS,15,,1,,,,Cross Poison,Poison,Physical
+ODOR SLEUTH,NORMAL,STATUS,40,,,,,,Gunk Shot,Poison,Physical
+OMINOUS WIND,GHOST,SPECIAL,5,60,1,,,,Iron Head,Steel,Physical
+ORIGIN PULSE,WATER,SPECIAL,10,110,0.85,,,,Magnet Bomb,Steel,Physical
+OUTRAGE,DRAGON,PHYSICAL,10,120,1,,,,Stone Edge,Rock,Physical
+OVERDRIVE,ELECTRIC,SPECIAL,10,80,1,,,,Captivate,Normal,Status
+OVERHEAT,FIRE,SPECIAL,5,130,0.9,,,,Stealth Rock,Rock,Status
+PAIN SPLIT,NORMAL,STATUS,20,,,,,,Grass Knot,Grass,Special
+PARABOLIC CHARGE,ELECTRIC,SPECIAL,20,65,1,,,,Chatter,Flying,Special
+PARTING SHOT,DARK,STATUS,20,,1,,,,Judgment,Normal,Special
+PAY DAY,NORMAL,PHYSICAL,20,40,1,,,,Bug Bite,Bug,Physical
+PAYBACK,DARK,PHYSICAL,10,50,1,,,,Charge Beam,Electric,Special
+PECK,FLYING,PHYSICAL,35,35,1,,,,Wood Hammer,Grass,Physical
+PERISH SONG,NORMAL,STATUS,5,,,,,,Aqua Jet,Water,Physical
+PETAL BLIZZARD,GRASS,PHYSICAL,15,90,1,,,,Attack Order,Bug,Physical
+PETAL DANCE,GRASS,SPECIAL,10,120,1,,,,Defend Order,Bug,Status
+PHANTOM FORCE,GHOST,PHYSICAL,10,90,1,,,,Heal Order,Bug,Status
+PHOTON GEYSER,PSYCHIC,SPECIAL,5,100,1,,,,Head Smash,Rock,Physical
+PIKA PAPOW,ELECTRIC,SPECIAL,20,,,,,,Double Hit,Normal,Physical
+PIN MISSILE,BUG,PHYSICAL,20,25,0.95,,,,Roar of Time,Dragon,Special
+PLASMA FISTS,ELECTRIC,PHYSICAL,15,100,1,,,,Spacial Rend,Dragon,Special
+PLAY NICE,NORMAL,STATUS,20,,,,,,Lunar Dance,Psychic,Status
+PLAY ROUGH,FAIRY,PHYSICAL,10,90,0.9,,,,Crush Grip,Normal,Physical
+PLUCK,FLYING,PHYSICAL,20,60,1,,,,Magma Storm,Fire,Special
+POISON FANG,POISON,PHYSICAL,15,50,1,,,,Dark Void,Dark,Status
+POISON GAS,POISON,STATUS,40,,0.9,,,,Seed Flare,Grass,Special
+POISON JAB,POISON,PHYSICAL,20,80,1,,,,Ominous Wind,Ghost,Special
+POISON POWDER,POISON,STATUS,35,,0.75,,,,Shadow Force,Ghost,Physical
+POISON STING,POISON,PHYSICAL,35,15,1,,,,Hone Claws,Dark,Status
+POISON TAIL,POISON,PHYSICAL,25,50,1,,,,Wide Guard,Rock,Status
+POLLEN PUFF,BUG,SPECIAL,15,90,1,,,,Guard Split,Psychic,Status
+POLTERGEIST,GHOST,PHYSICAL,5,110,0.9,,,,Power Split,Psychic,Status
+POUND,NORMAL,PHYSICAL,35,40,1,,,,Wonder Room,Psychic,Status
+POWDER,BUG,STATUS,20,,1,,,,Psyshock,Psychic,Special
+POWDER SNOW,ICE,SPECIAL,25,40,1,,,,Venoshock,Poison,Special
+POWER GEM,ROCK,SPECIAL,20,80,1,,,,Autotomize,Steel,Status
+POWER SPLIT,PSYCHIC,STATUS,10,,,,,,Rage Powder,Bug,Status
+POWER SWAP,PSYCHIC,STATUS,10,,,,,,Telekinesis,Psychic,Status
+POWER TRICK,PSYCHIC,STATUS,10,,,,,,Magic Room,Psychic,Status
+POWER TRIP,DARK,PHYSICAL,10,20,1,,,,Smack Down,Rock,Physical
+POWER WHIP,GRASS,PHYSICAL,10,120,0.85,,,,Storm Throw,Fighting,Physical
+POWER-UP PUNCH,FIGHTING,PHYSICAL,20,40,1,,,,Flame Burst,Fire,Special
+PRECIPICE BLADES,GROUND,PHYSICAL,10,120,0.85,,,,Sludge Wave,Poison,Special
+PRESENT,NORMAL,PHYSICAL,15,,0.9,,,,Quiver Dance,Bug,Status
+PRISMATIC LASER,PSYCHIC,SPECIAL,10,160,1,,,,Heavy Slam,Steel,Physical
+PROTECT,NORMAL,STATUS,10,,,,,,Synchronoise,Psychic,Special
+PSYBEAM,PSYCHIC,SPECIAL,20,65,1,,,,Electro Ball,Electric,Special
+PSYCH UP,NORMAL,STATUS,10,,,,,,Soak,Water,Status
+PSYCHIC,PSYCHIC,SPECIAL,10,90,1,,,,Flame Charge,Fire,Physical
+PSYCHIC FANGS,PSYCHIC,PHYSICAL,10,85,1,,,,Coil,Poison,Status
+PSYCHIC TERRAIN,PSYCHIC,STATUS,10,,,,,,Low Sweep,Fighting,Physical
+PSYCHO BOOST,PSYCHIC,SPECIAL,5,140,0.9,,,,Acid Spray,Poison,Special
+PSYCHO CUT,PSYCHIC,PHYSICAL,20,70,1,,,,Foul Play,Dark,Physical
+PSYCHO SHIFT,PSYCHIC,STATUS,10,,1,,,,Simple Beam,Normal,Status
+PSYSHOCK,PSYCHIC,SPECIAL,10,80,1,,,,Entrainment,Normal,Status
+PSYSTRIKE,PSYCHIC,SPECIAL,10,100,1,,,,After You,Normal,Status
+PSYWAVE,PSYCHIC,SPECIAL,15,,1,,,,Round,Normal,Special
+PUNISHMENT,DARK,PHYSICAL,5,,1,,,,Echoed Voice,Normal,Special
+PURIFY,POISON,STATUS,20,,,,,,Chip Away,Normal,Physical
+PURSUIT,DARK,PHYSICAL,20,40,1,,,,Clear Smog,Poison,Special
+PYRO BALL,FIRE,PHYSICAL,5,120,0.9,,,,Stored Power,Psychic,Special
+QUASH,DARK,STATUS,15,,1,,,,Quick Guard,Fighting,Status
+QUICK ATTACK,NORMAL,PHYSICAL,30,40,1,,,,Ally Switch,Psychic,Status
+QUICK GUARD,FIGHTING,STATUS,15,,,,,,Scald,Water,Special
+QUIVER DANCE,BUG,STATUS,20,,,,,,Shell Smash,Normal,Status
+RAGE,NORMAL,PHYSICAL,20,20,1,,,,Heal Pulse,Psychic,Status
+RAGE POWDER,BUG,STATUS,20,,,,,,Hex,Ghost,Special
+RAIN DANCE,WATER,STATUS,5,,,,,,Sky Drop,Flying,Physical
+RAPID SPIN,NORMAL,PHYSICAL,40,50,1,,,,Shift Gear,Steel,Status
+RAZOR LEAF,GRASS,PHYSICAL,25,55,0.95,,,,Circle Throw,Fighting,Physical
+RAZOR SHELL,WATER,PHYSICAL,10,75,0.95,,,,Incinerate,Fire,Special
+RAZOR WIND,NORMAL,SPECIAL,10,80,1,,,,Quash,Dark,Status
+RECOVER,NORMAL,STATUS,10,,,,,,Acrobatics,Flying,Physical
+RECYCLE,NORMAL,STATUS,10,,,,,,Reflect Type,Normal,Status
+REFLECT,PSYCHIC,STATUS,20,,,,,,Retaliate,Normal,Physical
+REFLECT TYPE,NORMAL,STATUS,15,,,,,,Final Gambit,Fighting,Special
+REFRESH,NORMAL,STATUS,20,,,,,,Bestow,Normal,Status
+RELIC SONG,NORMAL,SPECIAL,10,75,1,,,,Inferno,Fire,Special
+REST,PSYCHIC,STATUS,10,,,,,,Water Pledge,Water,Special
+RETALIATE,NORMAL,PHYSICAL,5,70,1,,,,Fire Pledge,Fire,Special
+RETURN,NORMAL,PHYSICAL,20,,1,,,,Grass Pledge,Grass,Special
+REVELATION DANCE,NORMAL,SPECIAL,15,90,1,,,,Volt Switch,Electric,Special
+REVENGE,FIGHTING,PHYSICAL,10,60,1,,,,Struggle Bug,Bug,Special
+REVERSAL,FIGHTING,PHYSICAL,15,,1,,,,Bulldoze,Ground,Physical
+RISING VOLTAGE,ELECTRIC,SPECIAL,20,70,1,,,,Frost Breath,Ice,Special
+ROAR,NORMAL,STATUS,20,,,,,,Dragon Tail,Dragon,Physical
+ROAR OF TIME,DRAGON,SPECIAL,5,150,0.9,,,,Work Up,Normal,Status
+ROCK BLAST,ROCK,PHYSICAL,10,25,0.9,,,,Electroweb,Electric,Special
+ROCK CLIMB,NORMAL,PHYSICAL,20,90,0.85,,,,Wild Charge,Electric,Physical
+ROCK POLISH,ROCK,STATUS,20,,,,,,Drill Run,Ground,Physical
+ROCK SLIDE,ROCK,PHYSICAL,10,75,0.9,,,,Dual Chop,Dragon,Physical
+ROCK SMASH,FIGHTING,PHYSICAL,15,40,1,,,,Heart Stamp,Psychic,Physical
+ROCK THROW,ROCK,PHYSICAL,15,50,0.9,,,,Horn Leech,Grass,Physical
+ROCK TOMB,ROCK,PHYSICAL,15,60,0.95,,,,Sacred Sword,Fighting,Physical
+ROCK WRECKER,ROCK,PHYSICAL,5,150,0.9,,,,Razor Shell,Water,Physical
+ROLE PLAY,PSYCHIC,STATUS,10,,,,,,Heat Crash,Fire,Physical
+ROLLING KICK,FIGHTING,PHYSICAL,15,60,0.85,,,,Leaf Tornado,Grass,Special
+ROLLOUT,ROCK,PHYSICAL,20,30,0.9,,,,Steamroller,Bug,Physical
+ROOST,FLYING,STATUS,10,,,,,,Cotton Guard,Grass,Status
+ROTOTILLER,GROUND,STATUS,10,,,,,,Night Daze,Dark,Special
+ROUND,NORMAL,SPECIAL,15,60,1,,,,Psystrike,Psychic,Special
+SACRED FIRE,FIRE,PHYSICAL,5,100,0.95,,,,Tail Slap,Normal,Physical
+SACRED SWORD,FIGHTING,PHYSICAL,15,90,1,,,,Hurricane,Flying,Special
+SAFEGUARD,NORMAL,STATUS,25,,,,,,Head Charge,Normal,Physical
+SAND ATTACK,GROUND,STATUS,15,,1,,,,Gear Grind,Steel,Physical
+SAND TOMB,GROUND,PHYSICAL,15,35,0.85,,,,Searing Shot,Fire,Special
+SANDSTORM,ROCK,STATUS,10,,,,,,Techno Blast,Normal,Special
+SAPPY SEED,GRASS,PHYSICAL,15,90,1,,,,Relic Song,Normal,Special
+SCALD,WATER,SPECIAL,15,80,1,,,,Secret Sword,Fighting,Special
+SCALE SHOT,DRAGON,PHYSICAL,20,25,0.9,,,,Glaciate,Ice,Special
+SCARY FACE,NORMAL,STATUS,10,,1,,,,Bolt Strike,Electric,Physical
+SCORCHING SANDS,GROUND,SPECIAL,10,70,1,,,,Blue Flare,Fire,Special
+SCRATCH,NORMAL,PHYSICAL,35,40,1,,,,Fiery Dance,Fire,Special
+SCREECH,NORMAL,STATUS,40,,0.85,,,,Freeze Shock,Ice,Physical
+SEARING SHOT,FIRE,SPECIAL,5,100,1,,,,Ice Burn,Ice,Special
+SECRET POWER,NORMAL,PHYSICAL,20,70,1,,,,Snarl,Dark,Special
+SECRET SWORD,FIGHTING,SPECIAL,10,85,1,,,,Icicle Crash,Ice,Physical
+SEED BOMB,GRASS,PHYSICAL,15,80,1,,,,V-create,Fire,Physical
+SEED FLARE,GRASS,SPECIAL,5,120,0.85,,,,Fusion Flare,Fire,Special
+SEISMIC TOSS,FIGHTING,PHYSICAL,20,,1,,,,Fusion Bolt,Electric,Physical
+SELF-DESTRUCT,NORMAL,PHYSICAL,5,200,1,,,,Flying Press,Fighting,Physical
+SHADOW BALL,GHOST,SPECIAL,15,80,1,,,,Mat Block,Fighting,Status
+SHADOW BONE,GHOST,PHYSICAL,10,85,1,,,,Belch,Poison,Special
+SHADOW CLAW,GHOST,PHYSICAL,15,70,1,,,,Rototiller,Ground,Status
+SHADOW FORCE,GHOST,PHYSICAL,5,120,1,,,,Sticky Web,Bug,Status
+SHADOW PUNCH,GHOST,PHYSICAL,20,60,,,,,Fell Stinger,Bug,Physical
+SHADOW SNEAK,GHOST,PHYSICAL,30,40,1,,,,Phantom Force,Ghost,Physical
+SHARPEN,NORMAL,STATUS,30,,,,,,Trick-or-Treat,Ghost,Status
+SHEER COLD,ICE,SPECIAL,5,,0.3,,,,Noble Roar,Normal,Status
+SHELL SIDE ARM,POISON,SPECIAL,10,90,1,,,,Ion Deluge,Electric,Status
+SHELL SMASH,NORMAL,STATUS,15,,,,,,Parabolic Charge,Electric,Special
+SHELL TRAP,FIRE,SPECIAL,5,150,1,,,,Forest's Curse,Grass,Status
+SHIFT GEAR,STEEL,STATUS,10,,,,,,Petal Blizzard,Grass,Physical
+SHOCK WAVE,ELECTRIC,SPECIAL,20,60,,,,,Freeze-Dry,Ice,Special
+SHORE UP,GROUND,STATUS,10,,,,,,Disarming Voice,Fairy,Special
+SIGNAL BEAM,BUG,SPECIAL,15,75,1,,,,Parting Shot,Dark,Status
+SILVER WIND,BUG,SPECIAL,5,60,1,,,,Topsy-Turvy,Dark,Status
+SIMPLE BEAM,NORMAL,STATUS,15,,1,,,,Draining Kiss,Fairy,Special
+SING,NORMAL,STATUS,15,,0.55,,,,Crafty Shield,Fairy,Status
+SIZZLY SLIDE,FIRE,PHYSICAL,15,90,1,,,,Flower Shield,Fairy,Status
+SKETCH,NORMAL,STATUS,1,,,,,,Grassy Terrain,Grass,Status
+SKILL SWAP,PSYCHIC,STATUS,10,,,,,,Misty Terrain,Fairy,Status
+SKITTER SMACK,BUG,PHYSICAL,10,70,0.9,,,,Electrify,Electric,Status
+SKULL BASH,NORMAL,PHYSICAL,10,130,1,,,,Play Rough,Fairy,Physical
+SKY ATTACK,FLYING,PHYSICAL,5,140,0.9,,,,Fairy Wind,Fairy,Special
+SKY DROP,FLYING,PHYSICAL,10,60,1,,,,Moonblast,Fairy,Special
+SKY UPPERCUT,FIGHTING,PHYSICAL,15,85,0.9,,,,Boomburst,Normal,Special
+SLACK OFF,NORMAL,STATUS,10,,,,,,Fairy Lock,Fairy,Status
+SLAM,NORMAL,PHYSICAL,20,80,0.75,,,,King's Shield,Steel,Status
+SLASH,NORMAL,PHYSICAL,20,70,1,,,,Play Nice,Normal,Status
+SLEEP POWDER,GRASS,STATUS,15,,0.75,,,,Confide,Normal,Status
+SLEEP TALK,NORMAL,STATUS,10,,,,,,Diamond Storm,Rock,Physical
+SLUDGE,POISON,SPECIAL,20,65,1,,,,Steam Eruption,Water,Special
+SLUDGE BOMB,POISON,SPECIAL,10,90,1,,,,Hyperspace Hole,Psychic,Special
+SLUDGE WAVE,POISON,SPECIAL,10,95,1,,,,Water Shuriken,Water,Special
+SMACK DOWN,ROCK,PHYSICAL,15,50,1,,,,Mystical Fire,Fire,Special
+SMART STRIKE,STEEL,PHYSICAL,10,70,,,,,Spiky Shield,Grass,Status
+SMELLING SALTS,NORMAL,PHYSICAL,10,70,1,,,,Aromatic Mist,Fairy,Status
+SMOG,POISON,SPECIAL,20,30,0.7,,,,Eerie Impulse,Electric,Status
+SMOKESCREEN,NORMAL,STATUS,20,,1,,,,Venom Drench,Poison,Status
+SNAP TRAP,GRASS,PHYSICAL,15,35,1,,,,Powder,Bug,Status
+SNARL,DARK,SPECIAL,15,55,0.95,,,,Geomancy,Fairy,Status
+SNATCH,DARK,STATUS,10,,,,,,Magnetic Flux,Electric,Status
+SNIPE SHOT,WATER,SPECIAL,15,80,1,,,,Happy Hour,Normal,Status
+SNORE,NORMAL,SPECIAL,15,50,1,,,,Electric Terrain,Electric,Status
+SOAK,WATER,STATUS,20,,1,,,,Dazzling Gleam,Fairy,Special
+SOFT-BOILED,NORMAL,STATUS,10,,,,,,Celebrate,Normal,Status
+SOLAR BEAM,GRASS,SPECIAL,10,120,1,,,,Hold Hands,Normal,Status
+SOLAR BLADE,GRASS,PHYSICAL,10,125,1,,,,Baby-Doll Eyes,Fairy,Status
+SONIC BOOM,NORMAL,SPECIAL,20,,0.9,,,,Nuzzle,Electric,Physical
+SONIC BOOM,NORMAL,SPECIAL,10,65,1,,,,Hold Back,Normal,Physical
+SPACIAL REND,DRAGON,SPECIAL,5,100,0.95,,,,Infestation,Bug,Special
+SPARK,ELECTRIC,PHYSICAL,20,65,1,,,,Power-Up Punch,Fighting,Physical
+SPARKLING ARIA,WATER,SPECIAL,10,90,1,,,,Oblivion Wing,Flying,Special
+SPARKLY SWIRL,FAIRY,SPECIAL,15,90,1,,,,Thousand Arrows,Ground,Physical
+SPECTRAL THIEF,GHOST,PHYSICAL,10,90,1,,,,Thousand Waves,Ground,Physical
+SPEED SWAP,PSYCHIC,STATUS,10,,,,,,Land's Wrath,Ground,Physical
+SPIDER WEB,BUG,STATUS,10,,,,,,Light of Ruin,Fairy,Special
+SPIKE CANNON,NORMAL,PHYSICAL,15,20,1,,,,Origin Pulse,Water,Special
+SPIKES,GROUND,STATUS,20,,,,,,Precipice Blades,Ground,Physical
+SPIKY SHIELD,GRASS,STATUS,10,,,,,,Dragon Ascent,Flying,Physical
+SPIRIT BREAK,FAIRY,PHYSICAL,15,75,1,,,,Hyperspace Fury,Dark,Physical
+SPIRIT SHACKLE,GHOST,PHYSICAL,10,80,1,,,,Shore Up,Ground,Status
+SPIT UP,NORMAL,SPECIAL,10,,1,,,,First Impression,Bug,Physical
+SPITE,GHOST,STATUS,10,,1,,,,Baneful Bunker,Poison,Status
+SPLASH,NORMAL,STATUS,40,,,,,,Spirit Shackle,Ghost,Physical
+SPLISHY SPLASH,WATER,SPECIAL,15,90,1,,,,Darkest Lariat,Dark,Physical
+SPORE,GRASS,STATUS,15,,1,,,,Sparkling Aria,Water,Special
+SPOTLIGHT,NORMAL,STATUS,15,,,,,,Ice Hammer,Ice,Physical
+STEALTH ROCK,ROCK,STATUS,20,,,,,,Floral Healing,Fairy,Status
+STEAM ERUPTION,WATER,SPECIAL,5,110,0.95,,,,High Horsepower,Ground,Physical
+STEAMROLLER,BUG,PHYSICAL,20,65,1,,,,Strength Sap,Grass,Status
+STEEL BEAM,STEEL,SPECIAL,5,140,0.95,,,,Solar Blade,Grass,Physical
+STEEL ROLLER,STEEL,PHYSICAL,5,130,1,,,,Leafage,Grass,Physical
+STEEL WING,STEEL,PHYSICAL,25,70,0.9,,,,Spotlight,Normal,Status
+STICKY WEB,BUG,STATUS,20,,,,,,Toxic Thread,Poison,Status
+STOCKPILE,NORMAL,STATUS,20,,,,,,Laser Focus,Normal,Status
+STOMP,NORMAL,PHYSICAL,20,65,1,,,,Gear Up,Steel,Status
+STOMPING TANTRUM,GROUND,PHYSICAL,10,75,1,,,,Throat Chop,Dark,Physical
+STONE EDGE,ROCK,PHYSICAL,5,100,0.8,,,,Pollen Puff,Bug,Special
+STORED POWER,PSYCHIC,SPECIAL,10,20,1,,,,Anchor Shot,Steel,Physical
+STORM THROW,FIGHTING,PHYSICAL,10,60,1,,,,Psychic Terrain,Psychic,Status
+STRANGE STEAM,FAIRY,SPECIAL,10,90,0.95,,,,Lunge,Bug,Physical
+STRENGTH,NORMAL,PHYSICAL,15,80,1,,,,Fire Lash,Fire,Physical
+STRENGTH SAP,GRASS,STATUS,10,,1,,,,Power Trip,Dark,Physical
+STRING SHOT,BUG,STATUS,40,,0.95,,,,Burn Up,Fire,Special
+STRUGGLE,NORMAL,PHYSICAL,1,50,,,,,Speed Swap,Psychic,Status
+STRUGGLE BUG,BUG,SPECIAL,20,50,1,,,,Smart Strike,Steel,Physical
+STUFF CHEEKS,NORMAL,STATUS,10,,,,,,Purify,Poison,Status
+STUN SPORE,GRASS,STATUS,30,,0.75,,,,Revelation Dance,Normal,Special
+SUBMISSION,FIGHTING,PHYSICAL,20,80,0.8,,,,Core Enforcer,Dragon,Special
+SUBSTITUTE,NORMAL,STATUS,10,,,,,,Trop Kick,Grass,Physical
+SUCKER PUNCH,DARK,PHYSICAL,5,70,1,,,,Instruct,Psychic,Status
+SUNNY DAY,FIRE,STATUS,5,,,,,,Beak Blast,Flying,Physical
+SUNSTEEL STRIKE,STEEL,PHYSICAL,5,100,1,,,,Clanging Scales,Dragon,Special
+SUPER FANG,NORMAL,PHYSICAL,10,,0.9,,,,Dragon Hammer,Dragon,Physical
+SUPERPOWER,FIGHTING,PHYSICAL,5,120,1,,,,Brutal Swing,Dark,Physical
+SUPERSONIC,NORMAL,STATUS,20,,0.55,,,,Aurora Veil,Ice,Status
+SURF,WATER,SPECIAL,15,90,1,,,,Shell Trap,Fire,Special
+SURGING STRIKES,WATER,PHYSICAL,5,25,1,,,,Fleur Cannon,Fairy,Special
+SWAGGER,NORMAL,STATUS,15,,0.85,,,,Psychic Fangs,Psychic,Physical
+SWALLOW,NORMAL,STATUS,10,,,,,,Stomping Tantrum,Ground,Physical
+SWEET KISS,FAIRY,STATUS,10,,0.75,,,,Shadow Bone,Ghost,Physical
+SWEET SCENT,NORMAL,STATUS,20,,1,,,,Accelerock,Rock,Physical
+SWIFT,NORMAL,SPECIAL,20,60,,,,,Liquidation,Water,Physical
+SWITCHEROO,DARK,STATUS,10,,1,,,,Prismatic Laser,Psychic,Special
+SWORDS DANCE,NORMAL,STATUS,20,,,,,,Spectral Thief,Ghost,Physical
+SYNCHRONOISE,PSYCHIC,SPECIAL,10,120,1,,,,Sunsteel Strike,Steel,Physical
+SYNTHESIS,GRASS,STATUS,5,,,,,,Moongeist Beam,Ghost,Special
+TACKLE,NORMAL,PHYSICAL,35,40,1,,,,Tearful Look,Normal,Status
+TAIL GLOW,BUG,STATUS,20,,,,,,Zing Zap,Electric,Physical
+TAIL SLAP,NORMAL,PHYSICAL,10,25,0.85,,,,Nature's Madness,Fairy,Special
+TAIL WHIP,NORMAL,STATUS,30,,1,,,,Multi-Attack,Normal,Physical
+TAILWIND,FLYING,STATUS,15,,,,,,Mind Blown,Fire,Special
+TAKE DOWN,NORMAL,PHYSICAL,20,90,0.85,,,,Plasma Fists,Electric,Physical
+TAR SHOT,ROCK,STATUS,15,,1,,,,Photon Geyser,Psychic,Special
+TAUNT,DARK,STATUS,20,,1,,,,Zippy Zap,Electric,Physical
+TEARFUL LOOK,NORMAL,STATUS,20,,,,,,Splishy Splash,Water,Special
+TEATIME,NORMAL,STATUS,10,,,,,,Floaty Fall,Flying,Physical
+TECHNO BLAST,NORMAL,SPECIAL,5,120,1,,,,Pika Papow,Electric,Special
+TEETER DANCE,NORMAL,STATUS,20,,1,,,,Bouncy Bubble,Water,Special
+TELEKINESIS,PSYCHIC,STATUS,15,,,,,,Buzzy Buzz,Electric,Special
+TELEPORT,PSYCHIC,STATUS,20,,,,,,Sizzly Slide,Fire,Physical
+TERRAIN PULSE,NORMAL,SPECIAL,10,50,1,,,,Glitzy Glow,Psychic,Special
+THIEF,DARK,PHYSICAL,25,60,1,,,,Baddy Bad,Dark,Special
+THOUSAND ARROWS,GROUND,PHYSICAL,10,90,1,,,,Sappy Seed,Grass,Physical
+THOUSAND WAVES,GROUND,PHYSICAL,10,90,1,,,,Freezy Frost,Ice,Special
+THRASH,NORMAL,PHYSICAL,10,120,1,,,,Sparkly Swirl,Fairy,Special
+THROAT CHOP,DARK,PHYSICAL,15,80,1,,,,Veevee Volley,Normal,Physical
+THUNDER,ELECTRIC,SPECIAL,10,110,0.7,,,,Double Iron Bash,Steel,Physical
+THUNDER CAGE,ELECTRIC,SPECIAL,15,80,0.9,,,,Max Guard,Normal,Status
+THUNDER FANG,ELECTRIC,PHYSICAL,15,65,0.95,,,,Dynamax Cannon,Dragon,Special
+THUNDER PUNCH,ELECTRIC,PHYSICAL,15,75,1,,,,Snipe Shot,Water,Special
+THUNDER SHOCK,ELECTRIC,SPECIAL,30,40,1,,,,Jaw Lock,Dark,Physical
+THUNDER WAVE,ELECTRIC,STATUS,20,,0.9,,,,Stuff Cheeks,Normal,Status
+THUNDERBOLT,ELECTRIC,SPECIAL,15,90,1,,,,No Retreat,Fighting,Status
+THUNDEROUS KICK,FIGHTING,PHYSICAL,10,90,1,,,,Tar Shot,Rock,Status
+TICKLE,NORMAL,STATUS,20,,1,,,,Magic Powder,Psychic,Status
+TOPSY-TURVY,DARK,STATUS,20,,,,,,Dragon Darts,Dragon,Physical
+TORMENT,DARK,STATUS,15,,1,,,,Teatime,Normal,Status
+TOXIC,POISON,STATUS,10,,0.9,,,,Octolock,Fighting,Status
+TOXIC SPIKES,POISON,STATUS,20,,,,,,Bolt Beak,Electric,Physical
+TOXIC THREAD,POISON,STATUS,20,,1,,,,Fishious Rend,Water,Physical
+TRANSFORM,NORMAL,STATUS,10,,,,,,Court Change,Normal,Status
+TRI ATTACK,NORMAL,SPECIAL,10,80,1,,,,Clangorous Soul,Dragon,Status
+TRICK,PSYCHIC,STATUS,10,,1,,,,Body Press,Fighting,Physical
+TRICK ROOM,PSYCHIC,STATUS,5,,,,,,Decorate,Fairy,Status
+TRICK-OR-TREAT,GHOST,STATUS,20,,1,,,,Drum Beating,Grass,Physical
+TRIPLE AXEL,ICE,PHYSICAL,10,20,0.9,,,,Snap Trap,Grass,Physical
+TRIPLE KICK,FIGHTING,PHYSICAL,10,10,0.9,,,,Pyro Ball,Fire,Physical
+TROP KICK,GRASS,PHYSICAL,15,70,1,,,,Behemoth Blade,Steel,Physical
+TRUMP CARD,NORMAL,SPECIAL,5,,,,,,Behemoth Bash,Steel,Physical
+TWINEEDLE,BUG,PHYSICAL,20,25,1,,,,Aura Wheel,Electric,Physical
+TWISTER,DRAGON,SPECIAL,20,40,1,,,,Breaking Swipe,Dragon,Physical
+UPROAR,NORMAL,SPECIAL,10,90,1,,,,Branch Poke,Grass,Physical
+U-TURN,BUG,PHYSICAL,20,70,1,,,,Overdrive,Electric,Special
+VACUUM WAVE,FIGHTING,SPECIAL,30,40,1,,,,Apple Acid,Grass,Special
+V-CREATE,FIRE,PHYSICAL,5,180,0.95,,,,Grav Apple,Grass,Physical
+VEEVEE VOLLEY,NORMAL,PHYSICAL,20,,,,,,Spirit Break,Fairy,Physical
+VENOM DRENCH,POISON,STATUS,20,,1,,,,Strange Steam,Fairy,Special
+VENOSHOCK,POISON,SPECIAL,10,65,1,,,,Life Dew,Water,Status
+VINE WHIP,GRASS,PHYSICAL,25,45,1,,,,Obstruct,Dark,Status
+VISE GRIP,NORMAL,PHYSICAL,30,55,1,,,,False Surrender,Dark,Physical
+VITAL THROW,FIGHTING,PHYSICAL,10,70,,,,,Meteor Assault,Fighting,Physical
+VOLT SWITCH,ELECTRIC,SPECIAL,20,70,1,,,,Eternabeam,Dragon,Special
+VOLT TACKLE,ELECTRIC,PHYSICAL,15,120,1,,,,Steel Beam,Steel,Special
+WAKE-UP SLAP,FIGHTING,PHYSICAL,10,70,1,,,,Expanding Force,Psychic,Special
+WATER GUN,WATER,SPECIAL,25,40,1,,,,Steel Roller,Steel,Physical
+WATER PLEDGE,WATER,SPECIAL,10,80,1,,,,Scale Shot,Dragon,Physical
+WATER PULSE,WATER,SPECIAL,20,60,1,,,,Meteor Beam,Rock,Special
+WATER SHURIKEN,WATER,SPECIAL,20,15,1,,,,Shell Side Arm,Poison,Special
+WATER SPORT,WATER,STATUS,15,,,,,,Misty Explosion,Fairy,Special
+WATER SPOUT,WATER,SPECIAL,5,150,1,,,,Grassy Glide,Grass,Physical
+WATERFALL,WATER,PHYSICAL,15,80,1,,,,Rising Voltage,Electric,Special
+WEATHER BALL,NORMAL,SPECIAL,10,50,1,,,,Terrain Pulse,Normal,Special
+WHIRLPOOL,WATER,SPECIAL,15,35,0.85,,,,Skitter Smack,Bug,Physical
+WHIRLWIND,NORMAL,STATUS,20,,,,,,Burning Jealousy,Fire,Special
+WICKED BLOW,DARK,PHYSICAL,5,80,1,,,,Lash Out,Dark,Physical
+WIDE GUARD,ROCK,STATUS,10,,,,,,Poltergeist,Ghost,Physical
+WILD CHARGE,ELECTRIC,PHYSICAL,15,90,1,,,,Corrosive Gas,Poison,Status
+WILL-O-WISP,FIRE,STATUS,15,,0.85,,,,Coaching,Fighting,Status
+WING ATTACK,FLYING,PHYSICAL,35,60,1,,,,Flip Turn,Water,Physical
+WISH,NORMAL,STATUS,10,,,,,,Triple Axel,Ice,Physical
+WITHDRAW,WATER,STATUS,40,,,,,,Dual Wingbeat,Flying,Physical
+WONDER ROOM,PSYCHIC,STATUS,10,,,,,,Scorching Sands,Ground,Special
+WOOD HAMMER,GRASS,PHYSICAL,15,120,1,,,,Jungle Healing,Grass,Status
+WORK UP,NORMAL,STATUS,30,,,,,,Wicked Blow,Dark,Physical
+WORRY SEED,GRASS,STATUS,10,,1,,,,Surging Strikes,Water,Physical
+WRAP,NORMAL,PHYSICAL,20,15,0.9,,,,Thunder Cage,Electric,Special
+WRING OUT,NORMAL,SPECIAL,5,,1,,,,Dragon Energy,Dragon,Special
+X-SCISSOR,BUG,PHYSICAL,15,80,1,,,,Freezing Glare,Psychic,Special
+YAWN,NORMAL,STATUS,10,,,,,,Fiery Wrath,Dark,Special
+ZAP CANNON,ELECTRIC,SPECIAL,5,120,0.5,,,,Thunderous Kick,Fighting,Physical
+ZEN HEADBUTT,PSYCHIC,PHYSICAL,15,80,0.9,,,,Glacial Lance,Ice,Physical
+ZING ZAP,ELECTRIC,PHYSICAL,10,80,1,,,,Astral Barrage,Ghost,Special
+ZIPPY ZAP,ELECTRIC,PHYSICAL,15,50,1,,,,Eerie Spell,Psychic,Special
